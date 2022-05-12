@@ -15,7 +15,7 @@ body{
     background-size: cover;
 }
 ::selection{
-    background-color: white;
+    background-color: #206bfd;
     color: #fff;
 }
 a{
