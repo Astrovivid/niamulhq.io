@@ -1,6 +1,15 @@
-Author : @niamulhqe
-```
-MIT License
+<h1>Forked by <a href="https://github.com/Astrovivid">Astrovivid</a></h1>
+
+<p>It's actually a portfoilo, forked from my friend <a href="https://github.com/niamulhq">@niamulhq<a> and I gave some changes in his portfolio!</p>
+
+
+(„• ᴗ •„)
+ 
+
+
+<h2>Main Author : <a href="https://github.com/niamulhq">Niamul Haque - @niamulhqe</a></h2> 
+
+<h3>MIT License</h3>
 
 Copyright (c) 2021-present niamulhqe
 
